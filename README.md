@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://user-images.githubusercontent.com/71293292/229021235-b1f7fc4e-69ed-4d67-a9c7-17d4d8508880.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/claudia-tsai/"><img align=”left” src=”https://user-images.githubusercontent.com/71293292/229021235-b1f7fc4e-69ed-4d67-a9c7-17d4d8508880.png" alt=”icon | LinkedIn” width=”21px”/></a>
 <![linkedin](https://user-images.githubusercontent.com/71293292/229021235-b1f7fc4e-69ed-4d67-a9c7-17d4d8508880.png)>
 ![medium](https://user-images.githubusercontent.com/71293292/229021268-12231146-30ef-4a79-96e4-4bdba55f4f13.png)
