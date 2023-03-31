@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <a href=”https://www.linkedin.com/in/claudia-tsai/"><img align=”left” src=”https://user-images.githubusercontent.com/71293292/229021235-b1f7fc4e-69ed-4d67-a9c7-17d4d8508880.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 
 
