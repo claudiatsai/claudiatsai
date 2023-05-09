@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a visualization project through Tableau
+- 🔭 I’m currently working on a visualization project through Power BI
+- 🔭 I’m currently working on using Python to automate my daily work !
 
 
 
